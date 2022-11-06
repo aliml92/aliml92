@@ -36,8 +36,9 @@ func main(){
 }
 
  ```
-<br>
+
 ### What I always play with
+
 <div align="center">
 
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -46,8 +47,9 @@ func main(){
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 </div>
-<br>
+
 ### What I sometimes play with
+
 <div align="center">
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
