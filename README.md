@@ -6,8 +6,8 @@ I'm a backend engineer.  I mostly develop microservices in golang and also do on
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisher-muzaffarov/)](https://www.linkedin.com/in/alisher-muzaffarov/)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alishermpr@gmail.com)](mailto:alishermpr@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisher-muzaffarov/)](https://www.linkedin.com/in/alisher-muzaffarov/)
+  [![Gmail Badge](https://img.shields.io/badge/-alishermpr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alishermpr@gmail.com)](mailto:alishermpr@gmail.com)
 </div>
 <br>
 
@@ -55,10 +55,11 @@ func main(){
 ### What I sometimes play with
 
 <div align="center">
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-    ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-    ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
+
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+  ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
 </div>
