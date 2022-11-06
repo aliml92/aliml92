@@ -1,16 +1,64 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Ali</h1>
 
-<!--
-**aliml92/aliml92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm a backend engineer.  I mostly develop microservices in golang and also do on-premise devops stuff.   
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisher-muzaffarov/)](https://www.linkedin.com/in/alisher-muzaffarov/)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alishermpr@gmail.com)](mailto:alishermpr@gmail.com)
+</div>
+<br>
+
+<h3>How I'd define myself...literally</h3>
+
+ ```go
+func main(){
+    
+    me := &Person{
+        Name:   "Ali",
+        Age:    30,
+        Work:   ["👨‍💻 Koolsign Inc."],
+        Education: ["🏫 University of Ulsan"],
+        Hobby: ["📖 learning new stuff", "🏃🏻‍♂️ running"] 
+    }
+
+    me.SetCurrentLocation("Seoul, South Korea")
+    
+    ca := map[string]string{
+        "learning": "TDD in go",
+        "reading": "Ultimate Go Notebook"
+        "writing": "tests" 
+    }
+    me.SetCurrentActivies(ca)
+
+}
+
+ ```
+ 
+<br>
+
+### What I always play with
+
+<div align="center">
+
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+
+</div>
+
+<br>
+
+### What I sometimes play with
+
+<div align="center">
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+    ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+    ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
+
+</div>
