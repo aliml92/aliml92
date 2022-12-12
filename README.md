@@ -27,9 +27,8 @@ func main(){
     me.SetCurrentLocation("Seoul, South Korea")
     
     ca := map[string]string{
-        "learning": "TDD in go",
-        "reading": "Ultimate Go Notebook"
-        "writing": "tests" 
+        "learning": "thread safe queques",
+        "reading": "blogs"
     }
     me.SetCurrentActivies(ca)
 
