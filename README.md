@@ -60,9 +60,9 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats-aliml92.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&hide=html,css" alt="aliml92" />
+<img align="left" src="https://github-readme-stats-8b627pkbb-aliml92.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&hide=html,css" alt="aliml92" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-aliml92.vercel.app/api?username=aliml92&show_icons=true&locale=en" alt="aliml92" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats-8b627pkbb-aliml92.vercel.app/api?username=aliml92&show_icons=true&locale=en" alt="aliml92" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
