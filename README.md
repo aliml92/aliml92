@@ -11,6 +11,9 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> 
   </a>
+   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="go" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -52,9 +55,6 @@
   </a> 
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> 
     <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>  
 </p>
 
