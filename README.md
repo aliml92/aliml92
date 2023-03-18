@@ -62,7 +62,7 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&exclude_repo=aliml92,aliml92.github.io,hugo-theme-hello-friend-ng,first-contributions,coursera,handson-ml2,devhelpr&hide=html,css" alt="aliml92" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliml92&show_icons=true&locale=en&count_private=true" alt="aliml92" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliml92&count_private=true&show_icons=true&locale=en" alt="aliml92" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
