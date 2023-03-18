@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">Experienced backend engineer with a passion for building robust, scalable systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliml92&label=Profile%20views&color=0e75b6&style=flat" alt="aliml92" /> </p>
-
 🌱 I’m currently learning **Testing in golang.**
 
 📝 I regularly write articles on [alisherm.dev](alisherm.dev)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alisher-muzaffarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-muzaffarov" height="30" width="40" /></a>
-<a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -67,7 +58,15 @@
   </a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&exclude_repo=aliml92,aliml92.github.io,hugo-theme-hello-friend-ng,first-contributions,coursera,handson-ml2,devhelpr," alt="aliml92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliml92&show_icons=true&locale=en" alt="aliml92" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact&exclude_repo=aliml92,aliml92.github.io,hugo-theme-hello-friend-ng,first-contributions,coursera,handson-ml2,devhelpr," alt="aliml92" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alisher-muzaffarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-muzaffarov" height="30" width="40" /></a>
+<a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a>
+</p>
 
