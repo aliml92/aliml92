@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Testing in golang.**
 
-📝 I regularly write articles on [alisherm.dev](alisherm.dev)
+📝 I regularly write articles on [alisherm.dev](https://alisherm.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
