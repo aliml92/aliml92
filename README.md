@@ -10,5 +10,5 @@ I'm a backend engineer.
   [![Gmail Badge](https://img.shields.io/badge/-alishermpr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alishermpr@gmail.com)](mailto:alishermpr@gmail.com)
 </div>
 <br>
-[![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliml92)](https://github.com/aliml92/github-readme-stats)
+[![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliml92)](https://github.com/anuraghazra/github-readme-stats)
 
