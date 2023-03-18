@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">Experienced backend developer with a passion for building robust, scalable, and maintainable systems</h3>
+<h3 align="center">Experienced backend engineer with a passion for building robust, scalable, and maintainable systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliml92&label=Profile%20views&color=0e75b6&style=flat" alt="aliml92" /> </p>
 
