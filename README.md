@@ -1,14 +1,29 @@
-<h1 align="center">Hi! I'm Alisher</h1>
+<h1 align="center">Hi 👋, I'm Alisher</h1>
+<h3 align="center">Experienced backend developer with a passion for building robust, scalable, and maintainable systems</h3>
 
-<p align="center">
-I'm a backend engineer.   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliml92&label=Profile%20views&color=0e75b6&style=flat" alt="aliml92" /> </p>
+
+- 🌱 I’m currently learning **Testing in golang.**
+
+- 👨‍💻 All of my projects are available at [github.com/aliml92](github.com/aliml92)
+
+- 📝 I regularly write articles on [alisherm.dev](alisherm.dev)
+
+- 📫 How to reach me **alishermpr@gmail.com**
+
+- 📄 Know about my experiences [https://alisherm.dev/documents/cv.pdf](https://alisherm.dev/documents/cv.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alisher-muzaffarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-muzaffarov" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisher-muzaffarov/)](https://www.linkedin.com/in/alisher-muzaffarov/)
-  [![Gmail Badge](https://img.shields.io/badge/-alishermpr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alishermpr@gmail.com)](mailto:alishermpr@gmail.com)
-</div>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&show_icons=true&locale=en&layout=compact" alt="aliml92" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliml92&show_icons=true&locale=en" alt="aliml92" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliml92&" alt="aliml92" /></p>
