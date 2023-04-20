@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">Experienced backend engineer with a passion for building robust and scalable systems</h3>
 
-🌱 I’m currently learning **Testing in golang.**
+🌱 I’m currently learning **Elasticsearch.**
 
-📝 I regularly write articles on [alisherm.dev](https://alisherm.dev)
+📝 I sometimes write blog posts on [alisherm.dev](https://alisherm.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,6 +69,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/alisher-muzaffarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-muzaffarov" height="30" width="40" /></a>
 <a href="https://medium.com/@alisherm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisherm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aliml92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliml92" height="30" width="40" /></a>
 </p>
 
