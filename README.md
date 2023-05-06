@@ -60,7 +60,7 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&count_private-true&show_icons=true&locale=en&layout=compact&hide=html,css" alt="aliml92" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&count_private-true&show_icons=true&locale=en&layout=compact&hide=html,css,c#" alt="aliml92" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliml92&count_private=true&show_icons=true&locale=en" alt="aliml92" />
 </p>
