@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">Experienced backend engineer with a passion for building robust and scalable systems</h3>
 
-🌱 I’m currently mastering **PL/pgSQL**
+🌱 I’m currently studying rate limiting
 
 
 <h3 align="left">Languages and Tools:</h3>
